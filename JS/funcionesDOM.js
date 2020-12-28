@@ -1,4 +1,4 @@
-import * as crearFigura from '/JS/crearFiguras.js';
+import * as crearFigura from './crearFiguras.js';
 
 // FUNCION QUE POR MEDIO DE UN SWITCH DETERMINA LA FIGURA QUE SE DESEA INSERTAR
 export function seleccionarCrearFigura(layer, figuraElegidaLista, { layerX: posX, layerY: posY }, id) {

@@ -1,4 +1,4 @@
-import * as funcionesDOM from '/JS/funcionesDOM.js';
+import * as funcionesDOM from './funcionesDOM.js';
 
 
 
